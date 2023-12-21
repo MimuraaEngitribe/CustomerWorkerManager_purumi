@@ -1,0 +1,3 @@
+name: HumanWorkManager
+runtime: nodejs
+description: 社員と案件を管理するシステムです

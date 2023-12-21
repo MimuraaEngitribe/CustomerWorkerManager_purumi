@@ -1,0 +1,5 @@
+config:
+  HumanWorkManager:someApiKey:
+    secure: AAABABtCIpOBDzArsbTlRuulXrjxSCFjSA9FjidqYlltTXwh+ymuXwEgdzRNGJLtSa5lTgLBsA09QOGTr7BrJcsVPiW+nHX/iQ04xA==
+  gcp:project: mimustar-408611
+  gcp:region: asia-northeast2
